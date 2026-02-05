@@ -1,0 +1,19 @@
+div{
+    display: inline-block;
+    margin: -2px;
+}
+.a{
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding: 2em 20px;
+    border: red solid 2px;
+}
+
+.b{
+    box-sizing: border-box;
+    width:100px;
+    height:100px;
+    padding: 2em 20px;
+    border: green solid 2px;
+}
