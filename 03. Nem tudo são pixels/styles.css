@@ -1,0 +1,6 @@
+div{
+    font-size: 20px;
+}
+li{
+    font-size: 2em; /* nesse caso, li terá o tamanho de 2x o elemento pai 20*2=40px, que é a div (vou considerar que o pai seja a div, já que ul n muda muito, serve pra enunciar que está iniciando uma lista (que pode ser ordenada ou não) */
+}
